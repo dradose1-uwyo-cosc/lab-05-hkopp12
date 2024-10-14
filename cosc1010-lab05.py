@@ -1,8 +1,8 @@
-# Your Name Here
+# Hawkins Kopp
 # UWYO COSC 1010
-# Submission Date
+# 10/14/24
 # Lab 03 
-# Lab Section: 
+# Lab Section: 16
 # Sources, people worked with, help given to: 
 # your
 # comments
